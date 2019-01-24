@@ -11,11 +11,15 @@
 Spring 2019 • 3 credit hrs
 
 _Instructors_: 
-[Elizabeth Henaff](http://elizabeth-henaff.net), ehenaff@nyu.edu
-[Mark Skywarek](http://elizabeth-henaff.net), mls386@nyu.edu 
-Location: Tuesday 6-8:50 PM • MAGNET 811 
+
+[Elizabeth Henaff](http://elizabeth-henaff.net), ehenaff@nyu.edu 
+
+Mark Skywarek, mls386@nyu.edu 
+
+_Location_: Tuesday 6-8:50 PM • MAGNET (see shcedule for location at a given day)
 
 _Office hours_: 
+
 Elizabeth: Tuesdays 2pm-5pm, MAGNET 874
 Schedule office hours slot [here](https://tinyurl.com/office-hours-henaff)
 If you cannot make these times to do class or work conflict, contact me by email. 
