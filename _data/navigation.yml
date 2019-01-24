@@ -1,0 +1,28 @@
+docs:
+  - title: "Overview"
+    url: /_pages/overview.html
+  - title: "Weekly Schedule"
+    url: /_pages/weekly-schedule.html
+  - title: "Syllabus"
+    url: /_pages/syllabus.html
+  - title: "guidelines"
+    children:
+    - title: "Thesis Paper"
+      url: /_pages/thesis-paper.html
+    - title: "Thesis Project"
+      url: /_pages/thesis-project.html
+    - title: "Thesis Defense"
+      url: /_pages/thesis-defense.html
+    - title: "Thesis Roles"
+      url: /_pages/thesis-roles.html
+    - title: "Process Website"
+      url: /_pages/thesis-process-website.html
+    - title: "Progress Presentations and Mock Defense"
+      url: /_pages/progress-presentations-and-mock-defense.html
+    - title: "Thesis Defense Flyer"
+      url: /_pages/thesis-defense-flyer.html
+    - title: "IDM Archive Materials"
+      url: /_pages/idm-archive-materials.html
+  - title: "Links and Resources"
+    url: /_pages/links-and-resources.html
+
