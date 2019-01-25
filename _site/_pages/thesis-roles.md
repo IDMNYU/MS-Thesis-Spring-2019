@@ -4,39 +4,54 @@ ___
 
 Your thesis is under the guidance of faculty and a community of peers, both inside and outside the university, who play a number of roles:
 
-### Thesis Faculty \(Elizabeth Henaff and Mark Skywarek\)
+### Thesis Instructor \(Elizabeth Henaff and Mark Skywarek\)
 
-* The Thesis Faculty is the primary critic and mentor throughout the thesis process.
+The Thesis Instructor leads courses and workshops throughout the semester, sets deadlines for deliverables, and gives the final grade for the thesis class. 
 
 ### Thesis Writing Instructor \(Liz McEnaney, liz.mcenaney@gmail.com\)
 
-* The role of the writing instructor is to help students write their thesis paper. Liz will lead in class sessions on writing as well as give individual feedback on your writing. Any written deliverables should be sent to her, and her comments integrated, BEFORE turning it in to your professor. 
+The role of the writing instructor is to help students write their thesis paper. Liz will lead in class sessions on writing as well as give individual feedback on your writing. Any written deliverables should be sent to her, and her comments integrated, BEFORE turning it in to your professor. 
 
-### Thesis Project Advisor
+### Thesis Committee
+Your committee members will be present at the defense, and evaluate your paper, project and presentation. They are the following:
 
-* The Thesis Project Advisor will meet with their Thesis Project Advisee at least 2 times \(or more depending on the project advisor's preference and availability\) throughout the semester to give feedback on the thesis paper, project, and/or defense presentation.
+#### Thesis Project Advisor
+
+* The Project Advisor is __external to NYU__, and paid a modest honorarium. 
+* At the beginning of the semester:
+    - if you do not already have an advisor in mind, you will be presented with a list of pre-vetted advisors selected by Mark and Elizabeth
+    - if you do have an advisor in mind, have them fill out [this form](https://goo.gl/forms/XRbBg6GkLqk7qIvF3) to apply for the role
+    - if you have an advisor in mind who is internal to NYU (a professor at IDM or in another department) please contact your thesis instructor the first day of class. 
+
+* The Thesis Project Advisor will meet with their Thesis Project Advisee throughout the semester, including (but not limited to):
+
+    + week 2 in-person meeting (location determined by thesis advisor)
+    + week 4 group crit (on Metrotech campus)
+    + week 6 check-in (in person or virtually)
+    + week 12 critical review of research paper (written feedback given to student)
+    + week 14 attend thesis defense (on Metrotech campus)
 
 * A learning contract is encouraged to give both advisor/advisee a written document of expectations.
 
 * The Thesis Student will document the meetings \(date, time, length, and typed notes\) on their process website.
 
-* The Thesis Project Advisor agrees to attend the Thesis Defense Panel, and will be given a digital copy of the student's final thesis paper for review **at least one week BEFORE** the Defense.
+* The Thesis Defense will be scheduled at a time that is good for the Thesis Project Advisor the rest of the committee. Date, Time, and Room to be determined.
 
-* The Thesis Defense will be scheduled at a time that is good for the Thesis Project Advisor AND the Second Reader. Date, Time, and Room to be determined.
+#### IDM Faculty Reader
 
-### Second Reader
+* One full-time faculty member at IDM (other than Elizabeth or Mark) will be on the committee
+* They will attend the student's Thesis Defense, and will be given a digital copy of the student's thesis paper for review **at least one week BEFORE**  the Defense.
 
-* Reviewer is identified in consultation with the Thesis Faculty, and most likely will be faculty at NYU.
+#### NYU Faculty Reader
 
-* The qualifications of an external examiner are professional or academic experience and expertise in your subject area.
+* One faculty member at NYU (other than full-time IDM faculty) will be on the committee
+* They will attend the student's Thesis Defense, and will be given a digital copy of the student's thesis paper for review **at least one week BEFORE**  the Defense.
 
-* They should be local \(in NYC\).
-
-* The External Reviewer will attend the student's Thesis Defense Panel, and will be given a digital copy of the student's thesis paper for review **at least one week BEFORE**  the Defense.
+Both Faculty Readers will be assigned mid-semester. 
 
 ### Your Thesis Accountability Partner
 
-* You will partner with a classmate for moral support, ideation, proofreading, presentation practice, and most importantly to stay on task.
+You will partner with a classmate for moral support, ideation, proofreading, presentation practice, and most importantly to stay on task.
 
 ### Thesis Peers
 

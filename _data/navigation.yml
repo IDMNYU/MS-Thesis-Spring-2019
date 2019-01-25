@@ -3,6 +3,8 @@ docs:
     url: /_pages/overview.html
   - title: "Weekly Schedule"
     url: /_pages/weekly-schedule.html
+  - title: "Checkpoints"
+    url: /_pages/checkpoints.html
   - title: "Syllabus"
     url: /_pages/syllabus.html
   - title: "guidelines"

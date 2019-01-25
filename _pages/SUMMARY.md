@@ -4,6 +4,7 @@
 * [Overview](overview.md)
 * [Syllabus](syllabus.md)
 * [Weekly Schedule](weekly-schedule.md)
+* [Checkpoints](checkpoints.md)
 * [Thesis Paper](thesis-paper.md)
 * [Thesis Project](thesis-project.md)
 * [Thesis Defense](thesis-defense.md)

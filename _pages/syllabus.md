@@ -20,9 +20,8 @@ _Location_: Tuesday 6-8:50 PM • MAGNET (see shcedule for location at a given d
 
 _Office hours_: 
 
-Elizabeth: Tuesdays 2pm-5pm, MAGNET 874
-Schedule office hours slot [here](https://tinyurl.com/office-hours-henaff)
-If you cannot make these times to do class or work conflict, contact me by email. 
+Elizabeth: Tuesdays 2pm-5pm, MAGNET 874 or by Google Hangouts.
+If you cannot make these times due to do class or work conflict, contact me by email. 
 
 Mark:
 TBD
@@ -83,7 +82,7 @@ This class will consist of
 
 ### **EVALUATION & GRADING**
 
-##### QUANTITATIVE **GRADING OVERVIEW**
+##### QUANTITATIVE GRADING OVERVIEW
 
 TBD
 
