@@ -4,20 +4,12 @@ ___
 
 This first is a formal proposal for what you aim to accomplish with your thesis research by the end of April when your papers are due to the external examiners.
 
-Each presentation will consist of  
-• 10 minutes of presentation  
-• 10 minutes of critique  
-for 20 minutes total.
-
-It should clearly include:
+Each presentation will consist of 5 minutes and should clearly include:
 
 * Research question: Why this question? How does your project investigate this question?
-* Contextual research: literature and theory, as well as other projects from your fields/domains
-* Practical project description: what are you making?
-* Methodology and methods for your primary research: how are you exploring your research questions? How will you find results?
-* Timeline for achieving this project: include specific dates, especially for functional demos and user testing
-* Resources needed to achieve this research
-* Bibliography
+* Contextual research
+* Practical project description
+
 
 # MIDTERM PROJECT DEMOS - SCIENCE FAIR
 
