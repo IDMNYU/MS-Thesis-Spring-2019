@@ -16,11 +16,11 @@ _Instructors_:
 
 Mark Skywarek, mls386@nyu.edu 
 
-_Location_: Tuesday 6-8:50 PM • MAGNET (see shcedule for location at a given day)
+_Location_: Monday 6-8:50 PM • MAGNET (see schedule for location at a given day)
 
 _Office hours_: 
 
-Elizabeth: Tuesdays 2pm-5pm, MAGNET 874 or by Google Hangouts.
+Elizabeth: Wednesdays 2pm-5pm, MAGNET 874 or by Google Hangouts.
 If you cannot make these times due to do class or work conflict, contact me by email. 
 
 Mark:
