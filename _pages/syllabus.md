@@ -84,7 +84,16 @@ This class will consist of
 
 ##### QUANTITATIVE GRADING OVERVIEW
 
-TBD
+checkpoint 1 - reference list |  10
+checkpoint 2 - background  | 10
+checkpoint 3 - demo | 20
+checkpoint 4 - draft  |  10
+checkpoint 5 - final draft | 20
+mock defense  |  10
+attendance | 11
+class participation | 9
+total |  100
+
 
 ##### QUALITATIVE GRADING OVERVIEW
 
@@ -114,7 +123,7 @@ The performance & attendance of the student has not met course requirements. You
 
 * Attendance is mandatory during project critiques, individual status meetings, and every student’s end of semester public presentations. If you miss an individual status meeting, it is your responsibility to exchange a time with a fellow classmate.
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
-* Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.5 percent
+* Be on Time. Tardiness will affect your grade. For every 10 minutes of tardiness, your final, numerical grade will drop by 0.5 percent. 
 * Contact the professor at least 24h in advance by email if you will not be in class. 
 * absence to observe religious holidays will not be penalized, however the students should give prior notice as described above. 
 * Late assignments will be penalized by 1/2 grade point for each day past due date. 
