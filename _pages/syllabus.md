@@ -26,6 +26,10 @@ If you cannot make these times due to do class or work conflict, contact me by e
 Mark:
 TBD
 
+Website: https://idmnyu.github.io/MS-Thesis-Spring-2019/
+
+A Google Drive folder with class slides, resources, past theses and templates will be shared with you and can be found here: [Class Google Drive](https://drive.google.com/open?id=19wGO2axeCpIoCcouWfDTNQRJepsoygWX)
+
 Prerequisite: DM-GY 9963 MS Pre-Thesis in Digital Media: Research Methods
 
 ---

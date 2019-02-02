@@ -9,6 +9,8 @@ docs:
     url: /_pages/syllabus.html
   - title: "guidelines"
     children:
+    - title: "Assignments"
+      url: /_pages/assignments.html
     - title: "Thesis Paper"
       url: /_pages/thesis-paper.html
     - title: "Thesis Project"
