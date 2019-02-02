@@ -1,6 +1,6 @@
 
 ___
-# Assignments
+# Assignments 
 
 All assignments are due Mondays at 5pm, uploaded to our shared Google Drive folder (MS-Thesis-Deliverables_yourname) unless specified otherwise. 
 
