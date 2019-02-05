@@ -37,6 +37,15 @@ Updates to your process website are to be submitted using [this form](https://go
 
     If you have another advisor in mind, have them fill out the form linked in the [Thesis Roles section of the syllabus](https://idmnyu.github.io/MS-Thesis-Spring-2019/_pages/thesis-roles.html) and send me a note so that I may review their application. 
 
+### Week 3:
+
+- weekly post on your process website
+- outline  
+    Compose an outline of your entire paper: it should cover the Abstract, Background, Project, Conclusion and Future Perspectives. Refer to the [Thesis Paper](https://idmnyu.github.io/MS-Thesis-Spring-2019/_pages/thesis-paper.html) page for more details on what each of these sections include. 
+    The outline corresponds to your future Table of Contents. Refer to our shared class folder for [examples of past theses](https://drive.google.com/drive/u/1/folders/1H8sbVdIDZ62vrR7rS3YcGQSOScM7q8e0) and their tables of contents.   
+    Bring 2 printed copies to class for our outlining workshop.   
+    This assignment will not be graded as part of your final grade, but not being adequately prepared will affect your participation grade.  
+
 
 
 
