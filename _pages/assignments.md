@@ -46,6 +46,13 @@ Updates to your process website are to be submitted using [this form](https://go
     Bring 2 printed copies to class for our outlining workshop.   
     This assignment will not be graded as part of your final grade, but not being adequately prepared will affect your participation grade.  
 
+### Week 4: 
+
+- weekly post on your process website
+- Background section due. Refer to the [Thesis Paper](https://idmnyu.github.io/MS-Thesis-Spring-2019/_pages/thesis-paper.html) section of the website for details.   
+    - set up a citation manager of your choice before starting
+    - Build upon the bibliography you turned in for Week 2 for this section. 
+    - minimum page requirement: 10 pgs, 15-20 recommended. 
 
 
 
