@@ -42,7 +42,7 @@ For a 20 minute presentation, plan on about 20 slides. The presentation should c
 
 * Introduction (1-2 slides)
 
-* Background: Show Your Influences \(Literature research and/or Competitive or Comparative Analysis\) (3-4 slides)
+* Background: Show your influences \(Literature Research and Competitive or Comparative Analysis\) (3-4 slides)
 
 * Define the context of your project: open question in the field, or an unmet need. ( 1-2 slides)
 
