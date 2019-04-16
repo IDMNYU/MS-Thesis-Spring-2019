@@ -171,3 +171,25 @@ Apple Pages files
 Spreadsheets (e.g., Excel files)
 PDF files of images, or PDF files which do not contain highlightable text (e.g., a "scanned" file, which is often simply a picture of text, is unacceptable)
 File names with special characters
+
+# Thesis Printing and Binding
+
+1) Formatting: 
+- consult the formatting guidelines in the shared drive folder. 
+- After you have made your corrections, send a pdf to Jose Ulerio for him to check formatting
+
+2) Print it on acid-free paper (2 copies at least). This can be done on a regular printer. 
+
+3) binding: 
+Bind your printed thesis along with the signature pages here: 
+
+Henry Bookbinding Company
+35 Henry Street (Basement) New York, New York 10002 
+Tel. (212) 962-1977 
+Hours of Operation: Sunday – 8:30 a.m. to 4:30 p.m. 
+Monday thru Thursdays - 8:30 a.m. to 4:30 p.m. 
+Fridays - 8:30 a.m. to 12:30 p.m.
+
+4) Turn in two copies to Eric Maiello
+
+
