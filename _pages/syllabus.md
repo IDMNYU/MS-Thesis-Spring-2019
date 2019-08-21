@@ -1,39 +1,3 @@
-
----
-## MS Thesis In Digital Media
-
-**NYU Tandon School of Engineering**
-
-**Technology, Culture and Society**
-
-**Integrated Digital Media**
-
-Spring 2019 • 3 credit hrs
-
-_Instructors_: 
-
-[Elizabeth Henaff](http://elizabeth-henaff.net), ehenaff@nyu.edu 
-
-Mark Skywarek, mls386@nyu.edu 
-
-_Location_: Monday 6-8:50 PM • MAGNET (see schedule for location at a given day)
-
-_Office hours_: 
-
-Elizabeth: Wednesdays 2pm-5pm, MAGNET 874 or by Google Hangouts.
-If you cannot make these times due to do class or work conflict, contact me by email. 
-
-Mark:
-TBD
-
-Website: https://idmnyu.github.io/MS-Thesis-Spring-2019/
-
-A Google Drive folder with class slides, resources, past theses and templates will be shared with you and can be found here: [Class Google Drive](https://drive.google.com/open?id=19wGO2axeCpIoCcouWfDTNQRJepsoygWX)
-
-Prerequisite: DM-GY 9963 MS Pre-Thesis in Digital Media: Research Methods
-
----
-
 ## **Welcome to MS Thesis In Digital Media**
 
 This is the second semester of a two-semester sequence culminating in a thesis project, a thesis paper, thesis website, and a thesis defense, accomplished through a combination of questioning, researching, building/making, writing, iterating, and presenting.
@@ -67,7 +31,7 @@ By the end of the course, students will be able to develop, complete, and docume
 
 ### **COURSE STRUCTURE**
 
-Students are expected to be on time for all meetings, critiques, and presentations. Due to the number of students in this class, you will be assigned to group A or B for individual meetings and/or presentation schedules.
+Students are expected to be on time for all class meetings, one-on-ones, critiques, and presentations. 
 
 This class will consist of
 
@@ -82,21 +46,19 @@ This class will consist of
 ### **COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS**
 
 * EMAIL ME - however if your email is more than a paragraph we should probably be meeting in person.
-* Talk to me in person directly after class, during your status meeting, come by office hours \(Tuesdays 3-5pm\) or set up an appointment about issues and problems.
+* Talk to me in person directly after class, during your status meeting, come by office hours \(Tuesdays 1-3pm\) or set up an appointment about issues and problems.
 
 ### **EVALUATION & GRADING**
 
 ##### QUANTITATIVE GRADING OVERVIEW
 
-checkpoint 1 - reference list |  10
-checkpoint 2 - background  | 10
-checkpoint 3 - demo | 20
-checkpoint 4 - draft  |  10
-checkpoint 5 - final draft | 20
-mock defense  |  10
-attendance | 11
-class participation | 9
-total |  100
+Class Participation + Attendance | 15
+Background Section and References |  20
+Project Implementation  | 20
+Thesis Defense + Exhibition Attendance  |  10
+Public Presentation of Work  |  15
+Thesis Final Draft (after corrections) | 20
+Total |  100
 
 
 ##### QUALITATIVE GRADING OVERVIEW
@@ -143,6 +105,4 @@ You MUST have complete rights of use to any and all materials which appear in yo
 ### **ACADEMIC ACCOMMODATIONS**
 
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at[http://www.nyu.edu/csd](http://www.nyu.edu/csd). The Moses Center is located at 726 Broadway on the 2nd floor.
-
-
 
